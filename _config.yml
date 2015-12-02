@@ -1,11 +1,10 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+title: Finance Blog 
+email:jack.pefhany@gmail.com
+description: Blog about my journey into financial modelling.
+baseurl: "/finance-blog"
+twitter_username: jackpeff
+avatar: "https://scontent-ord1-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1455097_10204179165712874_2259331980222096730_n.jpg?oh=dd4b8b71376ae08da2d8f44de178f1ad&oe=56DFC060" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +18,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Jack Pefhany" # Set default author name
+      categories: "models"
       layout: "post"
       comments: true
   -
