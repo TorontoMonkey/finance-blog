@@ -1,6 +1,6 @@
 # Site settings
 title: Model Exploration - a blog about my journey into the world of financial modelling and quantitative methods 
-email:jack.pefhany@gmail.com
+email: jack.pefhany@gmail.com
 description: Blog about my journey into financial modelling.
 baseurl: "/finance-blog"
 avatar: "https://scontent-ord1-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1455097_10204179165712874_2259331980222096730_n.jpg?oh=dd4b8b71376ae08da2d8f44de178f1ad&oe=56DFC060" # Set footer avatar
