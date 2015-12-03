@@ -32,7 +32,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "projects"
+      type: "pages"
     values:
       layout: "page"
       author: "Jack Pefhany" 
